@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="test.java.AlgoTest" tests="13" skipped="0" failures="0" errors="0" timestamp="2018-10-22T04:20:19" hostname="DESKTOP-90BIPU9" time="0.042">
+  <properties/>
+  <testcase name="normalInsertionSortTest" classname="test.java.AlgoTest" time="0.014"/>
+  <testcase name="TestingForArrayWith2Objects" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="normalQuickSortTest" classname="test.java.AlgoTest" time="0.004"/>
+  <testcase name="TestingForArrayWithNoObjectsInHeapsort" classname="test.java.AlgoTest" time="0.005"/>
+  <testcase name="TestingForArrayWithNoObjectsInBubblesort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="normalHeapSortTest" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="normalBubbleSortTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="normalMergeSortTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="TestingForArrayWithNoObjectsInInsertionsort" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="normalSelectionSortTest" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="TestingForArrayWithNoObjectsInQuicksort" classname="test.java.AlgoTest" time="0.0"/>
+  <testcase name="TestingForArrayWithNoObjectsInMergesort" classname="test.java.AlgoTest" time="0.001"/>
+  <testcase name="TestingForArrayWithNoObjectsInSelectionsort" classname="test.java.AlgoTest" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
